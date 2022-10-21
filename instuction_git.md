@@ -1,6 +1,6 @@
 # **инструкция работы с git**
 
-![git](https://avatars.mds.yandex.net/i?id=b11d26714cc781c76b3c5f4085d84d05-4316934-images-thumbs&n=13)
+![git](git.jpg)
 
 ## Что такое Git
 
